@@ -1,4 +1,4 @@
-Creating Awesome Text Org. 
+# Creating Awesome Text Org. 
 
 ## Aims
 There exists two simulatanous goals within this organization. 
